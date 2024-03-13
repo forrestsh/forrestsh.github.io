@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: PhD, Electrical and Computer Engineering
+  uni: National University of Singapore, Singapore
+  year: 1998 &mdash; 2003
+#  awards:
+#    - award: Summa Cumme Laude graduate
+  summary: Auditory Source Separation and Music Transcription
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master in Science (Acoustics)
+  uni: Institute of Acoustics, Academia Sinica, Beijing, China
+  year: 1992 &mdash; 1995
+#  award: Most likely to succeed
+  summary: Natural Language Processing and Semantic Analysis
+
+- degree: Bachelor in Electrical Engineering
+  uni: Sichuan University, Chengdu, China
+  year: 1988 &mdash; 1992
+#  award: Most likely to succeed
+  summary: Signal Processing

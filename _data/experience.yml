@@ -1,19 +1,58 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Equalearning Inc., USA
+  position: Senior Software Engineer
+  duration: Oct, 2021 &mdash; Present
+  summary: 	Designed Motivation Quotient Assessment System (MQAS).
+    <br>Statistical data analysis of MQAS.
+    <br>Developed Smart Micro Data using machine learning technique.
+    <br>Developed Visitor Management System.
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Shenzhen Mudi Technology Co., Ltd., China
+  position: Founder and CTO
+  duration:  Mar, 2012 &mdash; Jan, 2020
+  summary: Developed series of applications
+    <ul class="resume-item-list">
+    <li>MP3-to-Midi Converter for Mobile Ringtone, </li>
+    <li>Query-by-humming and audio fingerprint recognition, </li>
+    <li>Note taking Caicaiyun Handwriting, </li>
+    <li>Productive Caicaiyun Kanban, </li>
+    <li>Shopping Caicaiyun Image Search </li></ul>
+    Undertaken outsourcing projects 
+    <ul class="resume-item-list">
+    <li>ebpaipai.com e-Commence platform, </li>
+    <li>iPad Finance Education Game for China Merchants Bank, </li>
+    <li>Mobile Apps for Chinese Super League and Chinese Media Inc., </li>
+    <li>Instant Message App for Coffee Shops, </li>
+    <li>Lost property seeking platform etc. </li></ul>
+    
+- company: Peking University, Shenzhen Graduate School, China
+  position: Assistant Professor
+  duration:  Sept, 2007 &mdash; Feb, 2012
+  summary: "Classes offered: Speech Signal Processing (A.I.), Error-Correction Code theory. 
+    <br>Research area: Audio Fingerprint recognition, Scale speech coding, Image Retrieval, 
+    AVS Packet Loss Concealment algorithm etc."
 
 
+# Director of Digital Stratgy
+- company: Shenzhen Leagure Microelectronics Co., Ltd., China
+  position: Senior Algorithm Engineer
+  duration:  Sept, 2006 &mdash; Sept, 2007
+  summary: Led the team for algorithm simulation for the error-correction in designing the chip for OFDM digital TV broadcasting.
+  
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Singapore Mindmaker Pte., Ltd., Singapore 
+  position: System Architect
+  duration:   Nov, 2000  &mdash; Dec, 2003
+  summary: Led the R&D of text-to-speech system for Malay and Chinese language.
+  
+# Communications Coordinator
+- company: Institute of Acoustics, Academia Sinica, Beijing, China
+  position: Assistant Researcher
+  duration:   Sept, 1995 &mdash; Nov, 1997
+  summary: Joined the team for the key project of 9th 5-year plan of Academia Sinica Human-Machine Communication Systems, in charge of the natural language processing sub-project. 
+      <ul class="resume-item-list">
+      <li>Developed a chart-parser to multiple pinyin output of speech recognition for Chinese language understanding; </li>
+      <li>Research on Hireachal Network of Concept (HNC) theory for semantic analysis. </li>
+  
